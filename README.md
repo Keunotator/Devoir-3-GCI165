@@ -1,3 +1,9 @@
+Sur le web :
+Copier le code
+Travailler
+Commit changes dans le code
+Avoir un compte GitHub pour que je puisse accepter la modification sur le projet
+
 ENCORE BROUILLON - PAS NÉCESSAIREMENT LE BON MODE D'EMPLOI
 
 POUR UTILISER GIT SUR SPYDER DIRECTEMENT
